@@ -1,0 +1,9 @@
+com/example/server/ServerMain.class
+gui/launcher/Launcher.class
+shared/ProcessInfo.class
+gui/auth/AuthService.class
+gui/gui/GuiMain$1.class
+gui/gui/GuiMain$1$1.class
+gui/gui/GuiMain.class
+shared/SystemMetrics.class
+gui/auth/LoginStage.class
